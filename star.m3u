@@ -1,0 +1,17 @@
+#EXTM3U
+
+####################################################
+#               STAR SPORTS HINDI                 #
+####################################################
+#EXTINF:-1 tvg-id="star-sports-hindi" group-title="Sports" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hypechart/v1665132615/web-images/logo/star-sports-hindi.png",Star Sports Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1763256596~acl=*sshindi*~id=a602a5960f5348d6e9cd545e5f5d4c37~data=hdntl~hmac=7aa56267d90af82f8f5ea3ea0685775d4abfc125e366edfdf946bab7a5b1ead6"}
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+
+https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?
+
+
